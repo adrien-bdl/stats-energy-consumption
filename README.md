@@ -1,8 +1,15 @@
 # MAP565 - French Energy Consumption Analysis
 
-Authors: Jade Hardouin & Richard Pholvichith
+Authors: Adrien Bindel, Nathan Boughalem-Salier, Victor Deshors, Félix Rosseeuw
 
 ## Getting started
+
+### Retrieve the data
+
+In the terminal, run `unzip consommation-quotidienne-brute-regionale.zip` 
+
+### Python libraries
+
 To execute the notebooks, you will need the following library installed:
 - numpy
 - pandas
