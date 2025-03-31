@@ -23,6 +23,13 @@ https://www.overleaf.com/read/htmkyhhhvpgd#516bf0 (view only)
 
 In file `documents_pour_memoire`, you will find all the resources to illustrate the report with plots (and the comments associated to them).
 
+## Structure of the code
+
+`statistical_analysis.ipynb` notebook de base de ce que eux avait fait avec tous les processus dans le même notebook
+`arima.ipynb` for the auto-regressive models
+`copules.ipynb` for the copules
+`garch.ipynb` for the garch model
+
 ## Name
 French Energy Consumption Analysis with Stochastic Models
 
